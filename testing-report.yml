@@ -32,7 +32,15 @@
   status: pass
 
 - summary: |
+    Проверка просмотра подробного описания товара
+  status: fail
+  
+- summary: |
     Проверка добавления товара в корзину
+  status: pass
+
+- summary: |
+    Проверка отражения заказа в корзине
   status: pass
 
 - summary: |

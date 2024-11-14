@@ -45,7 +45,7 @@
   prerequisites:
     Открыта страница магазина
   test-data: |
-    Ключевое слово = red
+    Ключевое слово = powder
   steps:
     - Вводим в разделе Поиск слово "powder"
   expected-result: |

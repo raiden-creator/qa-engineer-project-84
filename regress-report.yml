@@ -164,7 +164,7 @@ bugreports:
 
 - summary: |
      Проверка мобильной адаптивности
-  status: fail
+  status: pass
 
 - summary: |
      Проверка скорости сайта

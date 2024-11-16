@@ -35,7 +35,7 @@ bugreports:
       Проверка поиска товаров по категории на русском языке
     status: fail
 
-bugreports:
+bugreports1:
   - summary: |
       Не переведен раздел "Категория" на русский язык
     environment: |
@@ -57,7 +57,7 @@ bugreports:
       Проверка просмотра товаров на русском языке
     status: fail
   
-bugreports:
+bugreports2:
   - summary: |
       Нет перевода на русский язык названия и описания товара
     environment: |
@@ -89,7 +89,7 @@ bugreports:
       Проверка отражения заказа в корзине
     status: fail
 
-bugreports:
+bugreports3:
   - summary: |
       Нет подписания разделов в Корзине
     environment: |
@@ -121,7 +121,7 @@ bugreports:
       Проверка оформления заказа
     status: fail
 
-bugreports:
+bugreports4:
   - summary: |
       Нельзя оформить заказ
     environment: |
@@ -141,7 +141,7 @@ bugreports:
       Проверка сайта с отражением информации на русском языке
     status: fail
 
-bugreports:
+bugreports5:
   - summary: |
       Сайт неполностью переведён на русский язык
     environment: |

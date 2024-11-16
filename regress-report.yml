@@ -82,7 +82,7 @@ test-cases:
     
 bugreports:
   - summary: |
-      Короткое описание ошибки
+      Проверка  поиска товаров по ключевому слову на русском языке
     environment: |
       Google Chrome
       Windows 11

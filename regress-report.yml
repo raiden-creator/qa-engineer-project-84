@@ -19,7 +19,7 @@ bugreports:
       Google Chrome
       Windows 11
     steps-to-reproduce: |
-      1. Зайти на страницу магазина https://hexlet-products-store.vercel.app/cart
+      1. Зайти на страницу магазина https://hexlet-products-store.vercel.app
       2. Ввести в разделе Поиск слово "палитра"
     expected-result: |
       На странице появляются товары с названием "палитра"
@@ -42,7 +42,7 @@ bugreports:
       Google Chrome
       Windows 11
     steps-to-reproduce: |
-      1. Зайти на страницу магазина https://hexlet-products-store.vercel.app/cart
+      1. Зайти на страницу магазина https://hexlet-products-store.vercel.app
       2. Выбрать в разделе Категория "Красота"
     expected-result: |
       На странице появляются товары из категории "Красота"
@@ -64,7 +64,7 @@ bugreports:
       Google Chrome
       Windows 11
     steps-to-reproduce: |
-      1. Зайти на страницу магазина https://hexlet-products-store.vercel.app/cart
+      1. Зайти на страницу магазина https://hexlet-products-store.vercel.app
       2. При открытии страницы появляется подробное описание товара на английском языке
       3. Нажать на кнопку "Далее"
       4. Нажать на кнопку "Предыдущая страница"
@@ -96,14 +96,14 @@ bugreports:
       Google Chrome
       Windows 11
     steps-to-reproduce: |
-      1. Зайти на страницу магазина https://hexlet-products-store.vercel.app/cart
+      1. Зайти на страницу магазина https://hexlet-products-store.vercel.app
       2. Выбрать товар Red Lipstick
       3. Нажать на кнопку "Корзина"
     expected-result: |
       В разделе "Корзина" появляется выбранный товар и его название, количество, сумма до скидки, сумма после скидки
     actual-result: |
       В разделе "Корзина" нет подписания полей
-      Рядом с название товара стоит количестово 68 шт. и рядом цифра 1 (выранное количество)
+      Рядом с название товара стоит количество 68 шт. и рядом цифра 1 (выбранное количество)
 
   - summary: |
       Проверка изменения количества товара в корзине
@@ -128,7 +128,7 @@ bugreports:
       Google Chrome
       Windows 11
     steps-to-reproduce: |
-      1. Зайти на страницу магазина https://hexlet-products-store.vercel.app/cart
+      1. Зайти на страницу магазина https://hexlet-products-store.vercel.app
       2. Выбрать товар Red Lipstick
       3. Нажать на кнопку "Корзина"
       4. Нажать "Оформить покупку"
@@ -148,7 +148,7 @@ bugreports:
       Google Chrome
       Windows 11
     steps-to-reproduce: |
-      1. Зайти на страницу магазина https://hexlet-products-store.vercel.app/cart
+      1. Зайти на страницу магазина https://hexlet-products-store.vercel.app
       2. Выбрать раздел "Язык"
       3. Выбрать русский язык
     expected-result: |

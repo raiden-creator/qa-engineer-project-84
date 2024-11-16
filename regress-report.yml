@@ -16,8 +16,8 @@ bugreports:
   - summary: |
       Короткое описание ошибки
     environment: |
-      Yandex  (64 бит)
-      ОС 23H2 22631.4317
+      Google Chrome
+      Windows 11
     steps-to-reproduce: |
       1. Зайти на страницу магазина https://hexlet-products-store.vercel.app/cart
       2. Ввести в разделе Поиск слово "палитра"
@@ -39,8 +39,8 @@ bugreports:
   - summary: |
       Не переведен раздел "Категория" на русский язык
     environment: |
-      Yandex  (64 бит)
-      ОС 23H2 22631.4317
+      Google Chrome
+      Windows 11
     steps-to-reproduce: |
       1. Зайти на страницу магазина https://hexlet-products-store.vercel.app/cart
       2. Выбрать в разделе Категория "Красота"
@@ -61,8 +61,8 @@ bugreports:
   - summary: |
       Нет перевода на русский язык названия и описания товара
     environment: |
-      Yandex  (64 бит)
-      ОС 23H2 22631.4317
+      Google Chrome
+      Windows 11
     steps-to-reproduce: |
       1. Зайти на страницу магазина https://hexlet-products-store.vercel.app/cart
       2. При открытии страницы появляется подробное описание товара на английском языке
@@ -93,8 +93,8 @@ bugreports:
   - summary: |
       Нет подписания разделов в Корзине
     environment: |
-      Yandex  (64 бит)
-      ОС 23H2 22631.4317
+      Google Chrome
+      Windows 11
     steps-to-reproduce: |
       1. Зайти на страницу магазина https://hexlet-products-store.vercel.app/cart
       2. Выбрать товар Red Lipstick
@@ -125,8 +125,8 @@ bugreports:
   - summary: |
       Нельзя оформить заказ
     environment: |
-      Yandex  (64 бит)
-      ОС 23H2 22631.4317
+      Google Chrome
+      Windows 11
     steps-to-reproduce: |
       1. Зайти на страницу магазина https://hexlet-products-store.vercel.app/cart
       2. Выбрать товар Red Lipstick
@@ -145,8 +145,8 @@ bugreports:
   - summary: |
       Сайт неполностью переведён на русский язык
     environment: |
-      Yandex  (64 бит)
-      ОС 23H2 22631.4317
+      Google Chrome
+      Windows 11
     steps-to-reproduce: |
       1. Зайти на страницу магазина https://hexlet-products-store.vercel.app/cart
       2. Выбрать раздел "Язык"

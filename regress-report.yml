@@ -54,7 +54,7 @@ test-cases:
 
   - summary: |
       Проверка оформления заказа
-    status: fail
+    status: pass
 
   - summary: |
       Проверка сайта с отражением информации на русском языке

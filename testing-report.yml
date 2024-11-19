@@ -40,10 +40,6 @@
   status: pass
 
 - summary: |
-    Проверка отражения заказа в корзине
-  status: fail
-
-- summary: |
     Проверка изменения количества товара в корзине
   status: pass
 

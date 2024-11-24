@@ -80,5 +80,21 @@
   status: fail
 
 - summary: |
-     Проверка скорости сайта
-  status: pass
+     Проверка сервера при оформлении заказа
+  status: fail
+
+- summary: |
+     Проверка увеличения изображения в подробном описании
+  status: fail
+
+- summary: |
+     Проверка кнопки возврата в категорию
+  status: fail
+
+- summary: |
+     Проверка количества товара "В наличии"
+  status: fail
+
+- summary: |
+     Проверка цены товара
+  status: fail

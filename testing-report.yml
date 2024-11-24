@@ -93,7 +93,7 @@
 
 - summary: |
      Проверка количества товара "В наличии"
-  status: fail
+  status: pass
 
 - summary: |
      Проверка цены товара
